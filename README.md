@@ -1,14 +1,11 @@
 <div align="center">
-  <a href="https://github.com/godcong">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/godcong/godcong/master/images/header.jpg">
-      <img width="100%" src="https://raw.githubusercontent.com/godcong/godcong/master/images/header.jpg" alt="GodCong Banner"/>
-    </picture>
-  </a>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://trophy.benkou.dev/?username=godcong&theme=flat&row=1&no-frame=true&margin-w=8" alt="GitHub Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/godcong/godcong/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/godcong/godcong/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake" src="https://raw.githubusercontent.com/godcong/godcong/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
@@ -100,16 +97,6 @@ I create and maintain **[OrigAdmin](https://github.com/origadmin)** — an open-
     <img width="100%"
       src="https://github-readme-activity-graph.vercel.app/graph?username=godcong&custom_title=GodCong%20Contribution%20Graph&hide_border=true&bg_color=ffffff&line=00ADD8&point=3178C6&color=333333&area=true&area_color=00ADD8"
       alt="Contribution Graph"/>
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/godcong/godcong/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/godcong/godcong/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake" src="https://raw.githubusercontent.com/godcong/godcong/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
